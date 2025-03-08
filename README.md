@@ -9,24 +9,23 @@
 </div>
 
 ---
-<div align="center">
-<h2>👨‍💻 About Me</h2>
+<div align="left">
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px>👨‍💻 About Me</h2>
 </div>
 
 - 🌱 I’m currently learning **React, JS, and JS at [SoftUni](https://softuni.bg/)**
 - 💻 I’m currently working on **Website for coins with numismatic value with JS and React**  
 - 💬 I study **Computer Science** at [New Bulgarian University](https://www.nbu.bg/) 
-- 📫 How to reach me:  
+- 📫 How to reach me: <p>  </p>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE)
 
 ---
-
-<div align="center" >
-  <h2>🚀 Languages and Tools I Use</h2>
+<div align="left">
+<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> 🚀 Languages and tools: </h2>
 </div>
 
 <!-- Icons are displayed inline; adjust width/height to your preference -->
-<p align="center">
+<p align="left">
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
   </a>
