@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Dilyan Yanev</h1>
-  <h3>A passionate frontend developer from Plovdiv, Bulgaria 🇧🇬</h3>
+  <h3>A passionate frontend developer from Plovdiv, Bulgaria</h3>
 </div>
 
 ---
