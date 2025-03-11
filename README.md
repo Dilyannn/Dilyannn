@@ -17,7 +17,7 @@
 - 💻 I’m currently working on **Website for coins with numismatic value with JS and React**  
 - 💬 I study **Computer Science** at [New Bulgarian University](https://www.nbu.bg/) 
 - 📫 How to reach me: <p>  </p>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dilyanyanev/)
 
 ---
 <div align="left">
