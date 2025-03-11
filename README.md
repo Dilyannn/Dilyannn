@@ -4,8 +4,8 @@
 -->
 
 <div align="center">
-  <h1>Hi 👋, I'm Dilyan Yanev</h1>
-  <h3>A passionate frontend developer from Plovdiv, Bulgaria</h3>
+  <h1>Hi 👋, I'm Dilyan :)</h1>
+  <h3>A passionate Frontend Developer from Plovdiv, Bulgaria</h3>
 </div>
 
 ---
