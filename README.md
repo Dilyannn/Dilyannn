@@ -13,7 +13,7 @@
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px>👨‍💻 About Me</h2>
 </div>
 
-- 🌱 I’m currently learning **React, JS, and JS at [SoftUni](https://softuni.bg/)**
+- 🌱 I’m currently learning **React and JS at [SoftUni](https://softuni.bg/)**
 - 💻 I’m currently working on **Website for coins with numismatic value with JS and React**  
 - 💬 I study **Computer Science** at [New Bulgarian University](https://www.nbu.bg/) 
 - 📫 How to reach me: <p>  </p>
