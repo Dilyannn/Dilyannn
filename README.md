@@ -21,7 +21,7 @@
 
 ---
 <div align="left">
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> 🚀 Languages and tools: </h2>
+<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> 🚀 Languages and tools </h2>
 </div>
 
 <!-- Icons are displayed inline; adjust width/height to your preference -->
@@ -73,21 +73,45 @@
 </picture>
 
 <!-- GitHub Stats & Trophies -->
-<div align="center">
-  <h1>My Stats🏆</h1>
+<div align="left">
+  <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px>
+    🏆My Stats</h2>
 </div>
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&locale=en" alt="Dilyannn" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dilyannn&show_icons=true&locale=en&layout=compact" alt="Dilyannn" />
-  </p>
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Dilyannn" alt="Dilyannn" />
-    </a>
-  </p>
-</div>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&theme=dark" />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&theme=default" />
+  <img 
+    alt="Top Langs" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&theme=default" />
+</picture> <br> </br>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Dilyannn/github-readme-stats">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&theme=tokyonight" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&theme=default" />
+          <img alt="Dilyannn's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&theme=default" />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=tokyonight" />
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=default" />
+          <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Dilyannn&theme=default" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
