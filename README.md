@@ -44,6 +44,9 @@
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
   </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="42" height="42" />
+  </a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" />
   </a>
@@ -57,6 +60,9 @@
   </a>
   <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="42" height="42" />
   </a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />
