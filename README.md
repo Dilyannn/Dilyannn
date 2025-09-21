@@ -4,72 +4,29 @@
 -->
 
 <div align="center">
-  <h1>Hi 👋, I'm Dilyan :)</h1>
+ 
+  <img width="1389" height="310" alt="image" src="https://github.com/user-attachments/assets/354e9c84-310e-42b8-a8fa-08ee25ee6726" />
+
   <h3>A passionate Frontend Developer from Plovdiv, Bulgaria</h3>
 </div>
 
 ---
-<div align="left">
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px>👨‍💻 About Me</h2>
-</div>
+<!-- ABOUT -->
+### About Me
 
-- 🌱 I’m currently learning **React and JS at [SoftUni](https://softuni.bg/)**
-- 💻 I’m currently working on **Website for coins with numismatic value with JS and React**  
-- 💬 I study **Computer Science** at [New Bulgarian University](https://www.nbu.bg/) 
-- 📫 How to reach me: <p>  </p>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dilyanyanev/)
+- 🌱 I’m currently learning **React and Express at [SoftUni](https://softuni.bg/)**
+- 💻 I have recently started learning **Next JS** on **[Udemy](https://www.udemy.com)**  
+- 💬 I study **Computer Science** at **[New Bulgarian University](https://www.nbu.bg/)**
 
----
-<div align="left">
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> 🚀 Languages and tools </h2>
-</div>
-
-<!-- Icons are displayed inline; adjust width/height to your preference -->
+### Connect with me
 <p align="left">
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="42" height="42" />
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" />
-  </a>
- 
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" />
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" />
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="42" height="42" />
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />
+  <a href="https://www.linkedin.com/in/dilyanyanev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" height="35" />
   </a>
 </p>
 
----
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,c,cpp,cmake,mongodb,postgres,jest,html,css,sass,bootstrap,git,postman,npm,github,vscode,figma,windows,linux&perline=14)](https://skillicons.dev)
 
 <!-- Light and Dark mode support-->
 <picture>
@@ -79,45 +36,48 @@
 </picture>
 
 <!-- GitHub Stats & Trophies -->
-<div align="left">
-  <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px>
-    🏆My Stats</h2>
-</div>
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&theme=dark" />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&theme=default" />
-  <img 
-    alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&theme=default" />
-</picture> <br> </br>
+### My Stats
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/Dilyannn/github-readme-stats">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&theme=tokyonight" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&theme=default" />
-          <img alt="Dilyannn's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&theme=default" />
-        </picture>
-      </a>
+    <td align="center" valign="top">
+      <!-- Overall stats -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+                srcset="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=14" />
+        <source media="(prefers-color-scheme: light)"
+                srcset="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true&border_radius=14" />
+        <img alt="GitHub stats"
+             src="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&theme=default&hide_border=true&border_radius=14"
+             height="195" />
+      </picture>
     </td>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=tokyonight" />
-          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=default" />
-          <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Dilyannn&theme=default" />
-        </picture>
-      </a>
+    <td align="center" valign="top">
+      <!-- Streak -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+                srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=tokyonight&hide_border=true&border_radius=14&card_width=495" />
+        <source media="(prefers-color-scheme: light)"
+                srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" />
+        <img alt="GitHub Streak"
+             src="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495"
+             height="195" />
+      </picture>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <!-- Most Used Languages (below, centered) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=tokyonight&hide_border=true&border_radius=14" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14" />
+    <img alt="Top Languages"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14" />
+  </picture>
+</p>
 
 
 
