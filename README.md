@@ -26,7 +26,10 @@
 </p>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,c,cpp,cmake,supabase,mongodb,postgres,jest,html,css,sass,bootstrap,materialui,git,postman,npm,github,vscode,figma,windows,linux&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,c,cpp,cmake,html,css,sass&perline=14)](https://skillicons.dev)
+
+### Others
+[![Others](https://skillicons.dev/icons?i=postgres,mongodb,supabase,jest,bootstrap,materialui,git,postman,npm,github,vscode,visualstudio,clion,figma,windows,linux&perline=13)](https://skillicons.dev)
 
 <!-- Light and Dark mode support-->
 <picture>
