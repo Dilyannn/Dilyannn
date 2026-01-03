@@ -47,11 +47,11 @@
       <!-- Overall stats -->
       <picture>
         <source media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=14" />
+                srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=14" />
         <source media="(prefers-color-scheme: light)"
-                srcset="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true&border_radius=14" />
+                srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true&border_radius=14" />
         <img alt="GitHub stats"
-             src="https://github-readme-stats.vercel.app/api?username=Dilyannn&show_icons=true&theme=default&hide_border=true&border_radius=14"
+             src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&theme=default&hide_border=true&border_radius=14"
              height="195" />
       </picture>
     </td>
@@ -74,11 +74,11 @@
   <!-- Most Used Languages (below, centered) -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=tokyonight&hide_border=true&border_radius=14" />
+            srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=tokyonight&hide_border=true&border_radius=14"/>
     <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14" />
+            srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14"/>
     <img alt="Top Languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14" />
+         src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14"/>
   </picture>
 </p>
 
