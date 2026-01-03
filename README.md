@@ -61,7 +61,6 @@
              height="195" />
   </picture>
       
-<p align="center">
   <!-- Most Used Languages (below, centered) -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -72,7 +71,6 @@
     src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
 </picture>
 
-</p>
 
 
 
