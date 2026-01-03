@@ -41,6 +41,7 @@
 <!-- GitHub Stats & Trophies -->
 ### My Stats
 
+<p>
 <!-- Overall stats -->   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
@@ -54,6 +55,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" />
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" height="195" />
 </picture>
+</p>
       
 <!-- Most Used Languages (below, centered) -->
 <p align="center">
