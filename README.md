@@ -72,14 +72,15 @@
 
 <p align="center">
   <!-- Most Used Languages (below, centered) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=tokyonight&hide_border=true&border_radius=14&v=3"/>
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14&v=3"/>
-    <img alt="Top Languages"
-         src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs/?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14&v=3"/>
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=tokyonight&hide_border=true&border_radius=14&v=4" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14&v=4" />
+  <img alt="Top Languages"
+    src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14&v=4" />
+</picture>
+
 </p>
 
 
