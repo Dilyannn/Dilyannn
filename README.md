@@ -40,28 +40,23 @@
 
 <!-- GitHub Stats & Trophies -->
 ### My Stats
+
 <!-- Overall stats -->   
 <picture>
-        <source media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
-        <source media="(prefers-color-scheme: light)"
-                srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
-        <img alt="GitHub stats"
-             src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&theme=default&hide_border=true&border_radius=14&format=png&v=4"
-             height="195" />
-      </picture>
-      <!-- Streak -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-                srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=tokyonight&hide_border=true&border_radius=14&card_width=495" />
-        <source media="(prefers-color-scheme: light)"
-                srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" />
-        <img alt="GitHub Streak"
-             src="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495"
-             height="195" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
+  <img alt="GitHub stats" src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&theme=default&hide_border=true&border_radius=14&format=png&v=4" height="195" />
+</picture>
       
-  <!-- Most Used Languages (below, centered) -->
+<!-- Streak -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=tokyonight&hide_border=true&border_radius=14&card_width=495" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" height="195" />
+</picture>
+      
+<!-- Most Used Languages (below, centered) -->
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
@@ -70,7 +65,7 @@
   <img alt="Top Languages"
     src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
 </picture>
-
+</p>
 
 
 
