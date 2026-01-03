@@ -41,31 +41,31 @@
 <!-- GitHub Stats & Trophies -->
 ### My Stats
 
-<p>
+<div>
 <!-- Overall stats -->   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=410&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=410&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
-  <img alt="GitHub stats" src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&card_width=410&theme=default&hide_border=true&border_radius=14&format=png&v=4" height="195" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=400&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
+  <img alt="GitHub stats" src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=4" height="195" />
 </picture>
-      
+
+<!-- Most Used Languages (below, centered) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=400&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
+  <img alt="Top Languages"
+    src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
+</picture>
+</div>
+
+<p align="center">
 <!-- Streak -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=tokyonight&hide_border=true&border_radius=14&card_width=495" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" />
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" height="195" />
-</picture>
-</p>
-      
-<!-- Most Used Languages (below, centered) -->
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
-  <img alt="Top Languages"
-    src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=600&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
 </picture>
 </p>
 
