@@ -44,9 +44,9 @@
 <p>
 <!-- Overall stats -->   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=430&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=430&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
-  <img alt="GitHub stats" src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&card_width=430&theme=default&hide_border=true&border_radius=14&format=png&v=4" height="195" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=410&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=410&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
+  <img alt="GitHub stats" src="https://github-readme-stats-dilyan-yanevs-projects.vercel.app/api?username=Dilyannn&show_icons=true&card_width=410&theme=default&hide_border=true&border_radius=14&format=png&v=4" height="195" />
 </picture>
       
 <!-- Streak -->
