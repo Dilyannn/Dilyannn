@@ -51,9 +51,9 @@
       
 <!-- Streak -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=tokyonight&hide_border=true&border_radius=14&card_width=495" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" height="195" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=tokyonight&hide_border=true&border_radius=14" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Dilyannn&theme=default&hide_border=true&border_radius=14" height="195" />
 </picture>
 </p>
       
