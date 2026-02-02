@@ -7,7 +7,7 @@
  
   <img width="1389" height="310" alt="image" src="https://github.com/user-attachments/assets/354e9c84-310e-42b8-a8fa-08ee25ee6726" />
 
-  <h3>A passionate Frontend Developer from Bulgaria <img width="16" height="15" alt="image" src="https://github.com/user-attachments/assets/a8d08e05-b209-4a42-baf0-7a7f663e1a6e" /></h3>
+  <h3>A Passionate Frontend Developer from Bulgaria <img width="16" height="15" alt="image" src="https://github.com/user-attachments/assets/a8d08e05-b209-4a42-baf0-7a7f663e1a6e" /></h3>
 </div>
 
 ---
