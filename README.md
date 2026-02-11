@@ -14,7 +14,7 @@
 <!-- ABOUT -->
 ### About Me
 
-- 🌱 I’m currently learning **React and Express at [SoftUni](https://softuni.bg/)**
+- 🌱 I’m currently learning **Typescipt at [SoftUni](https://softuni.bg/)**
 - 💻 I have recently started learning **Next JS** on **[Udemy](https://www.udemy.com)**  
 - 💬 I study **Computer Science** at **[New Bulgarian University](https://www.nbu.bg/)**
 
