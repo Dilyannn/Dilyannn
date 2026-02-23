@@ -1,7 +1,4 @@
-<!-- 
-  You can mix HTML and Markdown to achieve your desired layout.
-  Centering content can be done by wrapping elements in <div align="center"> ... </div>.
--->
+<!-- markdownlint-disable -->
 
 <div align="center">
  
@@ -21,7 +18,10 @@
 ### Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/dilyanyanev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" height="35" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dilyanyanev365@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 </p>
 
