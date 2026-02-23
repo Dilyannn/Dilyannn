@@ -17,10 +17,10 @@
 
 ### Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/dilyanyanev/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/dilyanyanev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin-right: 8px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:dilyanyanev365@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:dilyanyanev365@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 </p>
