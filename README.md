@@ -11,9 +11,12 @@
 <!-- ABOUT -->
 ### About Me
 
-- 🌱 I’m currently learning **Typescipt at [SoftUni](https://softuni.bg/)**
-- 💻 I have recently started learning **Next JS** on **[Udemy](https://www.udemy.com)**  
-- 💬 I study **Computer Science** at **[New Bulgarian University](https://www.nbu.bg/)**
+- 🎓 Computer Science student at **New Bulgarian University**
+- 💻 Software Engineering Intern at **DraftKings**
+- ⚛️ Building web apps with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**
+- 🧠 Also working with **C++**, algorithms, data structures, and OOP
+- 🚀 Interested in full-stack development, SaaS products, and AI-powered tools
+- 📚 Currently improving my skills in **TypeScript**, **Next.js**, and modern frontend architecture
 
 ### Connect with me
 <p align="left">
@@ -26,10 +29,10 @@
 </p>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,c,cpp,cmake,html,css,sass&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,c,cpp,cmake,java,html,css,sass&perline=14)](https://skillicons.dev)
 
 ### Others
-[![Others](https://skillicons.dev/icons?i=postgres,mongodb,supabase,jest,bootstrap,materialui,git,postman,npm,github,vscode,visualstudio,clion,figma,windows,linux&perline=13)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,jest,git,postman,npm,pnpm,github,vscode,visualstudio,clion,idea,figma,windows,apple,linux&perline=14)](https://skillicons.dev)
 
 <!-- Light and Dark mode support-->
 <picture>
