@@ -66,9 +66,9 @@
 <p align="center">
 <!-- Streak -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-bice-chi.vercel.app?user=Dilyannn&theme=tokyonight&hide_border=true&border_radius=14&card_width=495" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-bice-chi.vercel.app?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats-bice-chi.vercel.app?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495" height="195" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-bice-chi.vercel.app?user=Dilyannn&theme=tokyonight&hide_border=true&border_radius=14&card_width=495&v=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-bice-chi.vercel.app?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495&v=7" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats-bice-chi.vercel.app?user=Dilyannn&theme=default&hide_border=true&border_radius=14&card_width=495&v=7" height="195" />
 </picture>
 </p>
 
