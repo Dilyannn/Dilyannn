@@ -47,19 +47,19 @@
 <div>
 <!-- Overall stats -->   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ecru-two-99.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=400&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ecru-two-99.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
-  <img alt="GitHub stats" src="https://github-readme-stats-ecru-two-99.vercel.app/api?username=Dilyannn&show_icons=true&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=4" height="195" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ecru-two-99.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=400&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ecru-two-99.vercel.app/api?username=Dilyannn&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=7" />
+  <img alt="GitHub stats" src="https://github-readme-stats-ecru-two-99.vercel.app/api?username=Dilyannn&show_icons=true&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=7" height="195" />
 </picture>
 
 <!-- Most Used Languages (below, centered) -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-ecru-two-99.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=400&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=4" />
+    srcset="https://github-readme-stats-ecru-two-99.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=400&theme=tokyonight&hide_border=true&border_radius=14&format=png&v=7" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-ecru-two-99.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
+    srcset="https://github-readme-stats-ecru-two-99.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=7" />
   <img alt="Top Languages"
-    src="https://github-readme-stats-ecru-two-99.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=4" />
+    src="https://github-readme-stats-ecru-two-99.vercel.app/api/top-langs?username=Dilyannn&layout=compact&langs_count=10&card_width=400&theme=default&hide_border=true&border_radius=14&format=png&v=7" />
 </picture>
 </div>
 
